@@ -12,7 +12,9 @@ I hold a Diploma as a Backend Engineering Best Learner at AltSchool Africa, I’
 - 💼 Open to software engineering and backend opportunities.
 - 💡 Fun fact: Outside coding, I enjoy football, audiobooks, learning, and sharing knowledge.
 - 📫 Reach me: ughiovhejohn@gmail.com.
+
 ---
+
 🛠️ Languages and Tools :
 
 <div>
@@ -33,7 +35,8 @@ I hold a Diploma as a Backend Engineering Best Learner at AltSchool Africa, I’
 
 ## 📊 My GitHub Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Godhanded&theme=highcontrast&background=000000&count_private=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godhanded&layout=compact&theme=vision-friendly-dark&hide=CSS,SCSS,HTML,Jupyter%20Notebook&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=JohnUghiovhe&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JohnUghiovhe&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnUghiovhe&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
