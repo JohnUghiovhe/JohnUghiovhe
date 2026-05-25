@@ -15,48 +15,25 @@ I hold a Diploma as a Backend Engineering Best Learner at AltSchool Africa, I’
 ---
 🛠️ Languages and Tools :
 
-<p align="left">
-  <!-- TypeScript -->
-  <img src="https://jsdelivr.net" alt="typescript" width="40" height="40" />&nbsp;
-  <!-- Node.js -->
-  <img src="https://jsdelivr.net" alt="nodejs" width="40" height="40" />&nbsp;
-  <!-- NestJS -->
-  <img src="https://jsdelivr.net" alt="nestjs" width="40" height="40" />&nbsp;
-  <!-- Express.js -->
-  <img src="https://jsdelivr.net" alt="expressjs" width="40" height="40" />&nbsp;
-  <!-- MongoDB -->
-  <img src="https://jsdelivr.net" alt="mongodb" width="40" height="40" />&nbsp;
-  <!-- PostgreSQL -->
-  <img src="https://jsdelivr.net" alt="postgres" width="40" height="40" />&nbsp;
-  <!-- Redis -->
-  <img src="https://jsdelivr.net" alt="redis" width="40" height="40" />&nbsp;
-  <!-- Jest -->
-  <img src="https://jsdelivr.net" alt="jest" width="40" height="40" />&nbsp;
-  <!-- Git -->
-  <img src="https://jsdelivr.net" alt="git" width="40" height="40" />&nbsp;
-  <!-- Swagger -->
-  <img src="https://jsdelivr.net" alt="swagger" width="40" height="40" />&nbsp;
-  <!-- Docker -->
-  <img src="https://jsdelivr.net" alt="docker" width="40" height="40" />&nbsp;
-  <!-- GitHub Actions -->
-  <img src="https://jsdelivr.net" alt="githubactions" width="40" height="40" />
-</p>
-
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJs" alt="NestJs" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/express.svg" title="ExpressJs" alt="ExpressJs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"  title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40" fill="white"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="80" height="40"/>&nbsp;
+</div>
 ---
 
 ## 📊 My GitHub Stats :
 
-<p align="center">
-  <!-- GitHub Overall Stats Card -->
-  <img src="https://vercel.app" alt="JohnUghiovhe's GitHub stats" height="190" />
-  &nbsp;&nbsp;
-  <!-- Most Used Languages Card -->
-  <img src="https://vercel.app" alt="JohnUghiovhe's Top Languages" height="190" />
-</p>
-
-<p align="center">
-  <!-- GitHub Streak Card -->
-  <img src="https://herokuapp.com" alt="JohnUghiovhe's GitHub Streak" />
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Godhanded&theme=highcontrast&background=000000&count_private=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godhanded&layout=compact&theme=vision-friendly-dark&hide=CSS,SCSS,HTML,Jupyter%20Notebook&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
