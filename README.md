@@ -7,7 +7,7 @@
 **Quick summary about me**:
 
 Hi, I’m John Ughiovhe, a backend-focused Software Engineer building scalable APIs and reliable systems that solve real-world problems.
-I hold a Diploma as a Backend Engineering Best Learner at AltSchool Africa, I’m currently interning at [HNG Tech](https://hng.tech/) HNG 14, contributing to production-style and collaborative projects. I'm also studying Backend Engineering at [TechCrush](https://techcrush.pro/) Cohort 7. Alongside engineering, I work as a Customer Service Manager at KIJ VILLA, giving me a user-centered perspective on building products.  . 
+I hold a Diploma as a Backend Engineering Best Learner at [AltSchool Africa](https://altschoolafrica.com) I just rounded up an internship at [HNG Tech](https://hng.tech/) HNG 14, contributing to production-style and collaborative projects. I'm also studying Backend Engineering at [TechCrush](https://techcrush.pro/) Cohort 7. Alongside engineering, I work as a Customer Service Manager at KIJ VILLA, giving me a user-centered perspective on building products.  . 
 - 😊 Interested in open source, backend engineering, and building impactful products.
 - 💼 Open to software engineering and backend opportunities.
 - 💡 Fun fact: Outside coding, I enjoy football, audiobooks, learning, and sharing knowledge.
