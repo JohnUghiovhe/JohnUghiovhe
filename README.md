@@ -2,17 +2,34 @@
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://johnughiovhe.vercel.app/)](https://johnughiovhe.vercel.app/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-ughiovhe)](https://www.linkedin.com/in/john-ughiovhe) [![Twitter Badge](https://img.shields.io/badge/-X(Twitter)-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/john_ughiovhe)](https://twitter.com/john_ughiovhe)
 
---- 
 
-**Quick summary about me**:
+# Hi, I'm John Ughiovhe 👋🏾
 
-Hi, I’m John Ughiovhe, a backend-focused Software Engineer building scalable APIs and reliable systems that solve real-world problems.
-I hold a Diploma as a Backend Engineering Best Learner at [AltSchool Africa](https://altschoolafrica.com) I just rounded up an internship at [HNG Tech](https://hng.tech/) HNG 14, contributing to production-style and collaborative projects. I'm also studying Backend Engineering at [TechCrush](https://techcrush.pro/) Cohort 7. Alongside engineering, I work as a Customer Service Manager at KIJ VILLA, giving me a user-centered perspective on building products.  . 
-- 😊 Interested in open source, backend engineering, and building impactful products.
-- 💼 Open to software engineering and backend opportunities.
-- 💡 Fun fact: Outside coding, I enjoy football, audiobooks, learning, and sharing knowledge.
-- 📫 Reach me: ughiovhejohn@gmail.com.
+I'm a **Backend-focused Software Engineer** building scalable APIs, reliable systems, and practical products that solve real-world problems.
 
+I hold a **Backend Engineering Diploma and Best Learner Award** from [AltSchool Africa](https://altschoolafrica.com). I also completed the **HNG 14 Backend Engineering Internship at [HNG Tech](https://hng.tech/)**, where I contributed to production-style, collaborative projects and worked alongside other engineers to ship backend solutions.
+
+Most recently, I graduated from **TechCrush Cohort 7's Backend Engineering programme**, where I strengthened my backend fundamentals through hands-on projects, team collaboration, and software engineering practices. I'm now continuing my learning journey with **Cloud Computing at [TechCrush](https://techcrush.pro/)**.
+
+Alongside engineering, I work as a **Customer Service Manager at KIJ VILLA**, an experience that has shaped how I think about users, systems, communication, and building products around real-world needs.
+
+### Currently & Interested In
+- 🎓 TechCrush - Cloud Computing Cohort 
+- 💻 Backend-focused Software Engineer building scalable APIs and reliable systems
+- ☁️ Exploring cloud computing, infrastructure, deployment, and production systems
+- 🔧 Deepening my expertise in backend engineering and API development
+- 🌍 Interested in open source and developer communities
+- 💡 Building useful, impactful products
+- 🔎 Open to Backend / Software Engineering opportunities
+
+### A Few Other Things About Me
+- 😊 I enjoy turning real-world problems into practical software solutions.
+- ⚽ Outside coding, I enjoy football and audiobooks.
+- 📚 I'm big on learning, experimenting, and sharing what I learn.
+- 🤝🏾 I enjoy collaborative engineering and building with other developers.
+
+📫 Let's Connect
+**Email:** ughiovhejohn@gmail.com 
 ---
 
 🛠️ Languages and Tools :
