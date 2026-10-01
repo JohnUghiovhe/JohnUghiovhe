@@ -1,38 +1,39 @@
-# Hello there; welcome 👋🏾
-
+# Hi, I'm John Ughiovhe 👋🏾
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://johnughiovhe.vercel.app/)](https://johnughiovhe.vercel.app/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-ughiovhe)](https://www.linkedin.com/in/john-ughiovhe) [![Twitter Badge](https://img.shields.io/badge/-X(Twitter)-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/john_ughiovhe)](https://twitter.com/john_ughiovhe)
 
+I'm a Backend Software Engineer focused on building reliable APIs, scalable backend services, and distributed systems with TypeScript and Node.js.
 
-# Hi, I'm John Ughiovhe 👋🏾
+I enjoy working on systems where reliability, maintainability, and correct system behavior matter, from authentication and transactional workflows to background processing, distributed coordination, and cloud infrastructure.
 
-I'm a **Backend-focused Software Engineer** building scalable APIs, reliable systems, and practical products that solve real-world problems.
+### 🔧 What I Work With
 
-I hold a **Backend Engineering Diploma and Best Learner Award** from [AltSchool Africa](https://altschoolafrica.com). I also completed the **HNG 14 Backend Engineering Internship at [HNG Tech](https://hng.tech/)**, where I contributed to production-style, collaborative projects and worked alongside other engineers to ship backend solutions.
+- Languages: TypeScript, JavaScript, SQL
+- Backend: Node.js, NestJS, Express, REST APIs
+- Data: PostgreSQL, MongoDB, SQLite, Redis
+- Systems: Distributed Systems, Background Jobs, Workflow Orchestration, Caching, Distributed Locking, SSE
+- Security: JWT, OAuth 2.0, PKCE, RBAC
+- Cloud & DevOps: AWS, Docker, Kubernetes, GitHub Actions, Linux, CI/CD
+- Testing & Tooling: Vitest, Jest, Supertest, Prisma, TypeORM, Swagger/OpenAPI
 
-Most recently, I graduated from **TechCrush Cohort 7's Backend Engineering programme**, where I strengthened my backend fundamentals through hands-on projects, team collaboration, and software engineering practices. I'm now continuing my learning journey with **Cloud Computing at [TechCrush](https://techcrush.pro/)**.
+### ☁️ Current Focus
 
-Alongside engineering, I work as a **Customer Service Manager at KIJ VILLA**, an experience that has shaped how I think about users, systems, communication, and building products around real-world needs.
+- Building production backend systems as a Backend Engineer at Peerless
+- Deepening expertise in cloud infrastructure, deployment, and distributed systems
+- Exploring AI infrastructure and AI-powered backend systems
+- Improving my understanding of system design, reliability, and production engineering
+- Contributing to open-source projects and developer communities
 
-### Currently & Interested In
-- 🎓 TechCrush - Cloud Computing Cohort 
-- 💻 Backend-focused Software Engineer building scalable APIs and reliable systems
-- ☁️ Exploring cloud computing, infrastructure, deployment, and production systems
-- 🔧 Deepening my expertise in backend engineering and API development
-- 🌍 Interested in open source and developer communities
-- 💡 Building useful, impactful products
-- 🔎 Open to Backend / Software Engineering opportunities
+### 🎓 Engineering Journey
 
-### A Few Other Things About Me
-- 😊 I enjoy turning real-world problems into practical software solutions.
-- ⚽ Outside coding, I enjoy football and audiobooks.
-- 📚 I'm big on learning, experimenting, and sharing what I learn.
-- 🤝🏾 I enjoy collaborative engineering and building with other developers.
+- Backend Engineering Diploma — AltSchool Africa | Best Learner Award
+- HNG Internship 14 — Backend Engineering | Top 140 finalist out of 22,487 participants
+- TechCrush — Backend Engineering Cohort 7
+- TechCrush — Cloud Computing
 
-📫 Let's Connect
-**Email:** ughiovhejohn@gmail.com 
----
-
-🛠️ Languages and Tools :
+### 📫 Connect
+- Email: ughiovhejohn@gmail.com
+- LinkedIn: linkedin.com/in/john-ughiovhe
+- Portfolio: johnughiovhe.vercel.app
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
@@ -47,11 +48,8 @@ Alongside engineering, I work as a **Customer Service Manager at KIJ VILLA**, an
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Aws" alt="Aws" width="80" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="80" height="40"/>&nbsp;
 </div>
----
 
 ## 📊 My GitHub Stats :
-
-![](https://github-readme-stats.vercel.app/api?username=JohnUghiovhe&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JohnUghiovhe&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnUghiovhe&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
