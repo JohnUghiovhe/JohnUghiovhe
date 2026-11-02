@@ -1,39 +1,36 @@
 # Hi, I'm John Ughiovhe 👋🏾
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://johnughiovhe.vercel.app/)](https://johnughiovhe.vercel.app/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-ughiovhe)](https://www.linkedin.com/in/john-ughiovhe) [![Twitter Badge](https://img.shields.io/badge/-X(Twitter)-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/john_ughiovhe)](https://twitter.com/john_ughiovhe)
 
-I'm a Backend Software Engineer focused on building reliable APIs, scalable backend services, and distributed systems with TypeScript and Node.js.
+**Backend Software Engineer | TypeScript · Node.js · Distributed Systems**
 
-I enjoy working on systems where reliability, maintainability, and correct system behavior matter, from authentication and transactional workflows to background processing, distributed coordination, and cloud infrastructure.
+I'm a Backend Engineer at Peerless, building my expertise in reliable backend systems, API design, and distributed systems.
 
-### 🔧 What I Work With
+I enjoy solving engineering problems involving data consistency, system reliability, asynchronous processing, and service communication. My goal is to build backend systems that are dependable, maintainable, and designed to scale.
 
-- Languages: TypeScript, JavaScript, SQL
-- Backend: Node.js, NestJS, Express, REST APIs
-- Data: PostgreSQL, MongoDB, SQLite, Redis
-- Systems: Distributed Systems, Background Jobs, Workflow Orchestration, Caching, Distributed Locking, SSE
-- Security: JWT, OAuth 2.0, PKCE, RBAC
-- Cloud & DevOps: AWS, Docker, Kubernetes, GitHub Actions, Linux, CI/CD
-- Testing & Tooling: Vitest, Jest, Supertest, Prisma, TypeORM, Swagger/OpenAPI
+---
 
-### ☁️ Current Focus
+### Technical Skills
+| Category | Technologies |
+|---|---|
+| Languages | TypeScript, JavaScript, SQL |
+| Backend | Node.js, NestJS, Express, REST APIs |
+| Databases | PostgreSQL, MongoDB, SQLite, Redis |
+| Systems | Distributed Systems, Background Jobs, Workflow Orchestration, Caching, Distributed Locking |
+| Security | JWT, OAuth 2.0, PKCE, RBAC |
+| Cloud & DevOps | AWS, Docker, Kubernetes, Linux, GitHub Actions, CI/CD |
+| Testing & Tooling | Vitest, Jest, Supertest, Prisma, TypeORM, Swagger/OpenAPI |
 
-- Building production backend systems as a Backend Engineer at Peerless
-- Deepening expertise in cloud infrastructure, deployment, and distributed systems
-- Exploring AI infrastructure and AI-powered backend systems
-- Improving my understanding of system design, reliability, and production engineering
-- Contributing to open-source projects and developer communities
+### Current Focus
+- Building production backend engineering experience at Peerless
+- Deepening my knowledge of distributed systems, system design, and reliability engineering
+- Developing cloud infrastructure and deployment skills
+- Exploring AI-powered backend systems and workflow orchestration
+- Contributing to open-source projects and learning from the engineering community
 
-### 🎓 Engineering Journey
-
-- Backend Engineering Diploma — AltSchool Africa | Best Learner Award
-- HNG Internship 14 — Backend Engineering | Top 140 finalist out of 22,487 participants
-- TechCrush — Backend Engineering Cohort 7
-- TechCrush — Cloud Computing
-
-### 📫 Connect
-- Email: ughiovhejohn@gmail.com
-- LinkedIn: linkedin.com/in/john-ughiovhe
-- Portfolio: johnughiovhe.vercel.app
+### Get in Touch
+- Email: [ughiovhejohn@gmail.com](mailto:ughiovhe@gmail.com)
+- LinkedIn: [linkedin.com/in/john-ughiovhe](https://www.linkedin.com/in/john-ughiovhe)
+- Portfolio: [johnughiovhe.vercel.app](https://johnughiovhe.vercel.app/)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
